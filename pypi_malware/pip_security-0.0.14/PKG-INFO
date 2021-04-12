@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: pip_security
+Version: 0.0.14
+Summary: test run background code
+Home-page: https://github.com/kianxineki/pip_security
+Author: Alberto Galera Jimenez
+Author-email: galerajimenez@gmail.com
+License: GPL
+Description: :)
+Keywords: pip,security
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4

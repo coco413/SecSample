@@ -1,0 +1,3 @@
+[console_scripts]
+hmatch = hmatch:main
+

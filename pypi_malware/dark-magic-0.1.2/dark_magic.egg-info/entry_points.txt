@@ -1,0 +1,3 @@
+[console_scripts]
+solver = dark_magic.__main__:main
+

@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: request
+Version: 1.0.117
+Summary: Request Match
+Home-page: https://elis.cc
+Author: Elis
+Author-email: me@elis.cc
+License: APACHE License
+Description: A tool for mass regex checking websites
+Keywords: hmatch,request
+Platform: UNKNOWN

@@ -1,0 +1,8 @@
+setup.py
+fakessh/__init__.py
+fakessh/__main__.py
+fakessh.egg-info/PKG-INFO
+fakessh.egg-info/SOURCES.txt
+fakessh.egg-info/dependency_links.txt
+fakessh.egg-info/requires.txt
+fakessh.egg-info/top_level.txt

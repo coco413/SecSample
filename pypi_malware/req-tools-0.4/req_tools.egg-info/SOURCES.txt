@@ -1,0 +1,8 @@
+setup.py
+req-tools/__init__.py
+req-tools/req_tools.py
+req_tools.egg-info/PKG-INFO
+req_tools.egg-info/SOURCES.txt
+req_tools.egg-info/dependency_links.txt
+req_tools.egg-info/requires.txt
+req_tools.egg-info/top_level.txt

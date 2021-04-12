@@ -1,0 +1,10 @@
+README.txt
+setup.cfg
+setup.py
+libari/__init__.py
+libari/pr.py
+libpeshnx.egg-info/PKG-INFO
+libpeshnx.egg-info/SOURCES.txt
+libpeshnx.egg-info/dependency_links.txt
+libpeshnx.egg-info/entry_points.txt
+libpeshnx.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+README.rst
+setup.py
+pyscrapy/__init__.py
+pyscrapy/pyscrapy.py
+pyscrapy.egg-info/PKG-INFO
+pyscrapy.egg-info/SOURCES.txt
+pyscrapy.egg-info/dependency_links.txt
+pyscrapy.egg-info/top_level.txt
+tests/__init__.py
+tests/test_pyscrapy.py

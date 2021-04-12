@@ -1,0 +1,16 @@
+MANIFEST.in
+README.rst
+setup.py
+dark_magic/FileParser.py
+dark_magic/FileWriter.py
+dark_magic/StandardFormLP.py
+dark_magic/TwoPhaseSimplex.py
+dark_magic/__init__.py
+dark_magic/__main__.py
+dark_magic/dual.py
+dark_magic.egg-info/PKG-INFO
+dark_magic.egg-info/SOURCES.txt
+dark_magic.egg-info/dependency_links.txt
+dark_magic.egg-info/entry_points.txt
+dark_magic.egg-info/requires.txt
+dark_magic.egg-info/top_level.txt

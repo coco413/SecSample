@@ -1,0 +1,25 @@
+Metadata-Version: 1.1
+Name: pyscrapy
+Version: 0.3.0
+Summary: Useful pyscrapy.
+Home-page: http://pypi.python.org/pypi/pyscrapy/
+Author: pyscrapy
+Author-email: Avikalp@example.com
+License: UNKNOWN
+Description: Topic Model User Evaluation
+        
+        
+        Authors
+        -------
+        
+        Avikalp
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

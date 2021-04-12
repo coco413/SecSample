@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+libffm.egg-info/PKG-INFO
+libffm.egg-info/SOURCES.txt
+libffm.egg-info/dependency_links.txt
+libffm.egg-info/top_level.txt
+pack/__init__.py

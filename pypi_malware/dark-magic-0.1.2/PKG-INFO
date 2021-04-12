@@ -1,0 +1,62 @@
+Metadata-Version: 1.1
+Name: dark-magic
+Version: 0.1.2
+Summary: This package includes some useful optimizations
+Home-page: https://github.com/robomotic/dark-magic
+Author: Joel Rogan
+Author-email: matrix.epokh@gmail.com
+License: MIT
+Description: dark-magic
+        ==========
+        
+        .. image:: https://img.shields.io/pypi/v/dark-magic.svg
+            :target: https://pypi.python.org/pypi/dark-magic
+            :alt: Latest PyPI version
+        
+        .. image:: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal.png
+           :target: https://travis-ci.org/borntyping/cookiecutter-pypackage-minimal
+           :alt: Latest Travis CI build status
+        
+        This library contains a simple simplex solver for linear constrained equations in dual form.
+        
+        Usage
+        -----
+        
+        
+        Usage: ./dark_magic <command> x_FILEPATH A_FILEPATH b_FILEPATH c_FILEPATH
+        
+        
+        Disclaimer
+        ----------
+        This is a test package.
+        
+        Installation
+        ------------
+        
+        pip install dark-magic
+        
+        Requirements
+        ^^^^^^^^^^^^
+        
+        Compatibility
+        -------------
+        
+        Licence
+        -------
+        
+        Authors
+        -------
+        
+        `dark-magic` was written by `Joel Rogan <matrix.epokh@gmail.com>`_.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7

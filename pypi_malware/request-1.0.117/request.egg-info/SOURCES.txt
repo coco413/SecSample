@@ -1,0 +1,12 @@
+MANIFEST.in
+__init__.py
+hmatch.py
+request.py
+setup.py
+request.egg-info/PKG-INFO
+request.egg-info/SOURCES.txt
+request.egg-info/dependency_links.txt
+request.egg-info/entry_points.txt
+request.egg-info/not-zip-safe
+request.egg-info/requires.txt
+request.egg-info/top_level.txt
